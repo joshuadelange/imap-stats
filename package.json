@@ -1,0 +1,6 @@
+{
+  "name": "imap-stats",
+  "dependencies": {
+    "imap": "*"
+  }
+}
